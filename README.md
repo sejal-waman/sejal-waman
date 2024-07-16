@@ -3,7 +3,7 @@
 👩‍💻 I'm interested in doing coding 
 
 
-🎓 I'm currently pursuing a master's degree in computer applications
+🎓 I'm currently pursuing a master's degree in computer applications from Ajeenkya DY Patil University,Pune
 
 
 💞️ I'm looking to collaborate on open source projects and innovative software development
